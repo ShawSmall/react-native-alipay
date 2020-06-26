@@ -3332,8 +3332,8 @@ jsprim@^1.2.2:
     verror "1.10.0"
 
 jsrsasign@^8.0.4:
-  version "8.0.4"
-  resolved "https://registry.yarnpkg.com/jsrsasign/-/jsrsasign-8.0.4.tgz#3f7b8238844f126b496a7556ec9f4b511f95f861"
+  version "8.0.19"
+  resolved "https://registry.yarnpkg.com/jsrsasign/-/jsrsasign-8.0.19.tgz#c36260f103cc639a9202e5243d7544cde48d53a7"
 
 jstransform@^11.0.3:
   version "11.0.3"
