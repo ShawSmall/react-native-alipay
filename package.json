@@ -30,6 +30,6 @@
   },
   "dependencies": {
     "buffer": "^5.0.8",
-    "jsrsasign": "^8.0.4"
+    "jsrsasign": "^10.2.0"
   }
 }
